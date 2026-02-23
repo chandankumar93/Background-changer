@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+
+}
+
+
+.button{
+    height:100px;
+    width:100px;
+    font-size: 100px;
+    border-radius: solid black 2px;
+    justify-content: center;
+    justify-items: center;
+}
+
+#gray{
+    background-color: gray;
+}
+
+#red{
+    background-color: red;
+}
+
+#green{
+    background-color: green;
+
+}
+
+#blue{
+    background-color: blue;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#pink{
+    background-color: pink;
+}
